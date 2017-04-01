@@ -5,3 +5,14 @@
 To set up the application. 
 
 `$ dancer2 -a MyApp -s ~/dancer2-vue-webpck-skel`
+
+
+#### Resources
+
+[Dancer2](https://metacpan.org/pod/Dancer2)
+
+[Vue.js](https://vuejs.org/)
+
+[Bulma](http://bulma.io/)
+
+[Webpack](https://webpack.js.org/)
